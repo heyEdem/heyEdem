@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edem 
-- 👀 I’m interested in ...  
+- 👀 I’m interested in ... learning backend 
 - 🌱 I’m currently learning ... java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my twitter: @heyEdem
